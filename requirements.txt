@@ -1,0 +1,9 @@
+gtts
+openai-whisper
+pyttsx3
+scikit-learn
+joblib
+pandas
+numpy
+ollama
+tqdm

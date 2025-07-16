@@ -1,0 +1,22 @@
+text,intent
+who created you,ask_creator
+what time is it,tell_time
+who trained you,ask_creator
+hello,greet
+hi there,greet
+hi Honey,greet
+hey assistant,greet
+what's your name,ask_name
+what is my name,ask_name
+do you know my name,ask_name
+what's the weather,get_weather
+tell me the weather,get_weather
+weather in Delhi,get_weather
+current weather,get_weather
+play music,play_music
+start playing songs,play_music
+goodbye,exit
+bye,exit
+how old am i,ask_my_age
+what is my age,ask_my_age
+do you know my age,ask_my_age
