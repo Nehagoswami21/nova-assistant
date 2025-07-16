@@ -16,7 +16,7 @@ Nova is a locally-running voice assistant built with Python, Whisper for speech 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/Nehagoswami21/nova-assistant.git
@@ -51,7 +51,24 @@ FFmpeg (required by Whisper)
 
 Install dependencies again (if needed):
 pip install -r requirements.txt
+---
 
-## License
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! If you’d like to help improve Nova Assistant:
+
+1. **Fork** the repository
+2. **Create a branch** (`git checkout -b feature/your-feature`)
+3. **Commit your changes** (`git commit -m 'Add some feature'`)
+4. **Push to the branch** (`git push origin feature/your-feature`)
+5. **Open a Pull Request**
+
+Please make sure to follow clear coding practices and include helpful commit messages.
+---
+
+## Licensed
 This project is licensed under the MIT License.
 You’re free to use, modify, and share Nova under the terms of this license.
+
+
+
